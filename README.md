@@ -1,7 +1,6 @@
 # 🎓 Cutoff Predictor
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://cutoff-predictor.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/harshitabalpande/cut_off)
 
 A Machine Learning-based application designed to predict college admission cutoffs. This project aims to help students explore cutoff predictions and make informed decisions during the college admission process.
